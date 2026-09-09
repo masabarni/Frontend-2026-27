@@ -1,0 +1,19 @@
+body {
+    padding-top: 70px;
+}
+
+.bg-gradient {
+    background: linear-gradient(
+        135deg,
+        #00c853 0%,
+        #00b0ff 100%
+    );
+}
+
+.background {
+    background: linear-gradient(
+        135deg,
+        #ff512f,
+        #dd2476
+    );
+}
