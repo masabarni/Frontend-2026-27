@@ -1,0 +1,41 @@
+body {
+    padding-top: 56px;
+}
+
+.bg-gradient {
+    background: linear-gradient(135deg, #00c853 0%, #00b0ff 100%);
+}
+
+.hero {
+    padding: 100px 0;
+}
+
+.shoe-card {
+    border: none;
+    transition: all 0.3s ease;
+    overflow: hidden;
+}
+
+.shoe-card:hover {
+    transform: translateY(-10px) scale(1.02);
+    box-shadow: 0 20px 30px rgba(0, 200, 83, 0.25) !important;
+}
+
+.shoe-card img {
+    width: 100%;
+    height: 250px;
+    object-fit: cover;
+    transition: transform 0.4s ease;
+}
+
+.shoe-card:hover img {
+    transform: scale(1.08);
+}
+
+.price {
+    font-size: 1.25rem;
+}
+
+#loading {
+    min-height: 180px;
+}

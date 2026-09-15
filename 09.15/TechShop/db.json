@@ -1,0 +1,64 @@
+{
+  "shoes": [
+    {
+      "id": 1,
+      "name": "Whooting 80HE",
+      "brand": "Whooting",
+      "category": "Billentyuzet",
+      "description": "E-sport rapid triggerel elátott",
+      "price": 100000,
+      "oldPrice": null,
+      "image": "Kepek/keybord.jpg"
+    },
+    {
+      "id": 2,
+      "name": "LOGITECH SUPERLIGHT 2",
+      "brand": "Logitech",
+      "category": "Egér",
+      "description": "Mindkét kezzel használható kényelmes",
+      "price": 45990,
+      "oldPrice": null,
+      "image": "Kepek/mouse.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Razer Gigantus V2 L",
+      "brand": "Razer",
+      "category": "Egérpad",
+      "description": "Kényelmes jol csuzik rajta a egér",
+      "price": 7000,
+      "oldPrice": null,
+      "image": "Kepek/egérpad.jpg"
+    },
+    {
+      "id": 4,
+      "name": "MSI Cyborg A15 AI B2HWFKG",
+      "brand": "MSI",
+      "category": "Laptop",
+      "description": "Egy gaming laptop akkár munkára is.",
+      "price": 369900,
+      "oldPrice": 589990,
+      "image": "Kepek/laptop.jpg"
+    },
+    {
+      "id": 5,
+      "name": "BenQ ZOWIE XL2586X+",
+      "brand": "Zowie",
+      "category": "Monitor",
+      "description": "E-sport monitor VA panel 600Hz",
+      "price": 467990,
+      "oldPrice": null,
+      "image": "Kepek/monitor.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Shure SM7B",
+      "brand": "Shure",
+      "category": "Mikrofon",
+      "description": "Egy profi studio hangzást ad át",
+      "price": 167860,
+      "oldPrice": null,
+      "image": "Kepek/mikrofon.jpg"
+    }
+  ]
+}
