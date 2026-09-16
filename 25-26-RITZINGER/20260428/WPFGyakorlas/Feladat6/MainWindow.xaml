@@ -1,0 +1,33 @@
+﻿<Window x:Class="Feladat6.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Feladat6"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <StackPanel Margin="16">
+        <StackPanel Orientation="Horizontal" Margin="0,0,0,8">
+            <TextBox x:Name="txtUjFeladat"
+                 Width="200" Margin="0,0,8,0"/>
+            <Button Content="Hozzáad"
+                Click="Hozzaad_Click"/>
+        </StackPanel>
+
+        <ListBox x:Name="lstFeladatok"
+             Height="180"
+             Margin="0,0,0,8"/>
+
+        <StackPanel Orientation="Horizontal">
+            <Button Content="Töröl"
+                Click="Torol_Click"
+                Margin="0,0,8,0"/>
+            <Button Content="Kész ✓"
+                Click="Kesz_Click"/>
+        </StackPanel>
+
+        <TextBlock x:Name="txtInfo"
+               Margin="0,8,0,0"
+               Foreground="Gray"/>
+    </StackPanel>
+</Window>

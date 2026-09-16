@@ -1,0 +1,34 @@
+﻿<Window x:Class="Feladat3.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Feladat3"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid Margin="16">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="Auto"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="Auto"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+
+        <TextBox Grid.Row="0" Grid.Column="0" x:Name="txtA" Margin="0,0,8,0"/>
+        <Label   Grid.Row="0" Grid.Column="1" Content="+"
+             VerticalAlignment="Center"/>
+        <TextBox Grid.Row="0" Grid.Column="2" x:Name="txtB" Margin="8,0,8,0"/>
+        <Button  Grid.Row="0" Grid.Column="3" Content="="
+             Click="Osszead_Click" Width="32"/>
+
+        <TextBlock Grid.Row="1" Grid.Column="0" Grid.ColumnSpan="4"
+               x:Name="txtEredmeny"
+               Margin="0,8,0,0"
+               FontSize="16"
+               HorizontalAlignment="Center"/>
+    </Grid>
+</Window>

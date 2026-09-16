@@ -1,0 +1,41 @@
+﻿<Window x:Class="Feladat5.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Feladat5"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <StackPanel Margin="16">
+        <Label Content="Alap összeg: 5000 Ft"
+           FontWeight="Bold"/>
+
+        <Label Content="Szállítás:" Margin="0,8,0,0"/>
+        <RadioButton x:Name="rbIngyenes"
+                 Content="Ingyenes szállítás (0 Ft)"
+                 GroupName="Szallitas"
+                 Checked="Szallitas_Checked"/>
+        <RadioButton x:Name="rbGyors"
+                 Content="Gyors szállítás (990 Ft)"
+                 GroupName="Szallitas"
+                 Checked="Szallitas_Checked"/>
+        <RadioButton x:Name="rbExpressz"
+                 Content="Expressz (1990 Ft)"
+                 GroupName="Szallitas"
+                 Checked="Szallitas_Checked"/>
+
+        <Label Content="Fizetési mód:" Margin="0,8,0,0"/>
+        <ComboBox x:Name="cbFizetes"
+              SelectedIndex="0"
+              SelectionChanged="Fizetes_Changed">
+            <ComboBoxItem Content="Bankkártya (0 Ft)"/>
+            <ComboBoxItem Content="Utánvét (+350 Ft)"/>
+        </ComboBox>
+
+        <TextBlock x:Name="txtOsszeg"
+               FontSize="15"
+               FontWeight="Bold"
+               Margin="0,12,0,0"
+               Text="Fizetendő: 5000 Ft"/>
+    </StackPanel>
+</Window>
