@@ -1,0 +1,14 @@
+C:\Users\Asus2026\Desktop\2026.01.28\ConsoleApp1\Szorzotabla\bin\Debug\net8.0\Szorzotabla.exe
+C:\Users\Asus2026\Desktop\2026.01.28\ConsoleApp1\Szorzotabla\bin\Debug\net8.0\Szorzotabla.deps.json
+C:\Users\Asus2026\Desktop\2026.01.28\ConsoleApp1\Szorzotabla\bin\Debug\net8.0\Szorzotabla.runtimeconfig.json
+C:\Users\Asus2026\Desktop\2026.01.28\ConsoleApp1\Szorzotabla\bin\Debug\net8.0\Szorzotabla.dll
+C:\Users\Asus2026\Desktop\2026.01.28\ConsoleApp1\Szorzotabla\bin\Debug\net8.0\Szorzotabla.pdb
+C:\Users\Asus2026\Desktop\2026.01.28\ConsoleApp1\Szorzotabla\obj\Debug\net8.0\Szorzotabla.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus2026\Desktop\2026.01.28\ConsoleApp1\Szorzotabla\obj\Debug\net8.0\Szorzotabla.AssemblyInfoInputs.cache
+C:\Users\Asus2026\Desktop\2026.01.28\ConsoleApp1\Szorzotabla\obj\Debug\net8.0\Szorzotabla.AssemblyInfo.cs
+C:\Users\Asus2026\Desktop\2026.01.28\ConsoleApp1\Szorzotabla\obj\Debug\net8.0\Szorzotabla.csproj.CoreCompileInputs.cache
+C:\Users\Asus2026\Desktop\2026.01.28\ConsoleApp1\Szorzotabla\obj\Debug\net8.0\Szorzotabla.dll
+C:\Users\Asus2026\Desktop\2026.01.28\ConsoleApp1\Szorzotabla\obj\Debug\net8.0\refint\Szorzotabla.dll
+C:\Users\Asus2026\Desktop\2026.01.28\ConsoleApp1\Szorzotabla\obj\Debug\net8.0\Szorzotabla.pdb
+C:\Users\Asus2026\Desktop\2026.01.28\ConsoleApp1\Szorzotabla\obj\Debug\net8.0\Szorzotabla.genruntimeconfig.cache
+C:\Users\Asus2026\Desktop\2026.01.28\ConsoleApp1\Szorzotabla\obj\Debug\net8.0\ref\Szorzotabla.dll

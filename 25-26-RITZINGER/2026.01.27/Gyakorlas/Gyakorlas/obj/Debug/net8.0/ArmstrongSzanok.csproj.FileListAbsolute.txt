@@ -1,0 +1,14 @@
+C:\Users\Asus2026\Desktop\2026.01.27\Gyakorlas\Gyakorlas\bin\Debug\net8.0\ArmstrongSzanok.exe
+C:\Users\Asus2026\Desktop\2026.01.27\Gyakorlas\Gyakorlas\bin\Debug\net8.0\ArmstrongSzanok.deps.json
+C:\Users\Asus2026\Desktop\2026.01.27\Gyakorlas\Gyakorlas\bin\Debug\net8.0\ArmstrongSzanok.runtimeconfig.json
+C:\Users\Asus2026\Desktop\2026.01.27\Gyakorlas\Gyakorlas\bin\Debug\net8.0\ArmstrongSzanok.dll
+C:\Users\Asus2026\Desktop\2026.01.27\Gyakorlas\Gyakorlas\bin\Debug\net8.0\ArmstrongSzanok.pdb
+C:\Users\Asus2026\Desktop\2026.01.27\Gyakorlas\Gyakorlas\obj\Debug\net8.0\ArmstrongSzanok.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus2026\Desktop\2026.01.27\Gyakorlas\Gyakorlas\obj\Debug\net8.0\ArmstrongSzanok.AssemblyInfoInputs.cache
+C:\Users\Asus2026\Desktop\2026.01.27\Gyakorlas\Gyakorlas\obj\Debug\net8.0\ArmstrongSzanok.AssemblyInfo.cs
+C:\Users\Asus2026\Desktop\2026.01.27\Gyakorlas\Gyakorlas\obj\Debug\net8.0\ArmstrongSzanok.csproj.CoreCompileInputs.cache
+C:\Users\Asus2026\Desktop\2026.01.27\Gyakorlas\Gyakorlas\obj\Debug\net8.0\ArmstrongSzanok.dll
+C:\Users\Asus2026\Desktop\2026.01.27\Gyakorlas\Gyakorlas\obj\Debug\net8.0\refint\ArmstrongSzanok.dll
+C:\Users\Asus2026\Desktop\2026.01.27\Gyakorlas\Gyakorlas\obj\Debug\net8.0\ArmstrongSzanok.pdb
+C:\Users\Asus2026\Desktop\2026.01.27\Gyakorlas\Gyakorlas\obj\Debug\net8.0\ArmstrongSzanok.genruntimeconfig.cache
+C:\Users\Asus2026\Desktop\2026.01.27\Gyakorlas\Gyakorlas\obj\Debug\net8.0\ref\ArmstrongSzanok.dll

@@ -1,0 +1,14 @@
+C:\Users\Asus2026\Desktop\2026.01.28\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\ParosSzamok.exe
+C:\Users\Asus2026\Desktop\2026.01.28\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\ParosSzamok.deps.json
+C:\Users\Asus2026\Desktop\2026.01.28\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\ParosSzamok.runtimeconfig.json
+C:\Users\Asus2026\Desktop\2026.01.28\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\ParosSzamok.dll
+C:\Users\Asus2026\Desktop\2026.01.28\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\ParosSzamok.pdb
+C:\Users\Asus2026\Desktop\2026.01.28\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ParosSzamok.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus2026\Desktop\2026.01.28\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ParosSzamok.AssemblyInfoInputs.cache
+C:\Users\Asus2026\Desktop\2026.01.28\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ParosSzamok.AssemblyInfo.cs
+C:\Users\Asus2026\Desktop\2026.01.28\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ParosSzamok.csproj.CoreCompileInputs.cache
+C:\Users\Asus2026\Desktop\2026.01.28\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ParosSzamok.dll
+C:\Users\Asus2026\Desktop\2026.01.28\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\refint\ParosSzamok.dll
+C:\Users\Asus2026\Desktop\2026.01.28\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ParosSzamok.pdb
+C:\Users\Asus2026\Desktop\2026.01.28\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ParosSzamok.genruntimeconfig.cache
+C:\Users\Asus2026\Desktop\2026.01.28\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ref\ParosSzamok.dll
