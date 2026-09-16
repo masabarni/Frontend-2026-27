@@ -1,0 +1,44 @@
+﻿<Window x:Class="WpfApp9.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp9"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="201*"/>
+            <ColumnDefinition Width="599*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <TextBlock Grid.Row="0" Text="Holiday Office" FontSize="44" HorizontalAlignment="Left" Margin="62,10,0,10" Grid.Column="1"/>
+
+        <DataGrid x:Name="dataGrid" Grid.Row="1" ItemsSource="{Binding Reservations, Mode=TwoWay}" SelectedItem="{Binding SelectedReservation, Mode=TwoWay }" 
+                  SelectedIndex="{Binding SelectedReservationIndex, Mode=TwoWay}"
+           AutoGenerateColumns="False" IsReadOnly="True" Margin="10,10,10,10" HeadersVisibility="Column" Grid.ColumnSpan="2">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Név" Binding="{Binding Name}" Width="2*"/>
+                <DataGridTextColumn Header="Összeg (Ft)" Binding="{Binding Amount}" Width="*"/>
+                <DataGridTextColumn Header="Foglalások" Binding="{Binding Count}" Width="*"/>
+                <DataGridTemplateColumn Header="Műveletek" Width="Auto">
+                    <DataGridTemplateColumn.CellTemplate>
+                        <DataTemplate>
+                            <StackPanel Orientation="Horizontal">
+                                <Button Content="✎" Width="30" Margin="2" Click="EditCommand"/>
+                                <Button Content="🗑" Width="30" Margin="2" Click="DeleteCommand"/>
+                            </StackPanel>
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellTemplate>
+                </DataGridTemplateColumn>
+            </DataGrid.Columns>eeeeeeeeee
+        </DataGrid>
+
+        <Button Grid.Row="2" Content="Új foglalás hozzáadása" HorizontalAlignment="Left" Margin="158,35,0,59" Width="484" Click="AddReservationCommand" Grid.ColumnSpan="2"/>
+
+    </Grid>
+</Window>
